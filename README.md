@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently lerning Computer Scinence and Engineering<br>📚SRMIST '28<br>👯 I’m looking to collaborate on UI/UX<br>🌱 I’m currently learning Web design<br>
+🔭I'm currently lerning Computer Scinence and Engineering<br>📚SRMIST '28<br>🌱 I’m currently learning Web design<br>
 
 
 ## 🌐 Socials:
